@@ -10,5 +10,13 @@ import matplotlib.pyplot as plt
 Key de acesso obtido através do cadastro no site https://openweathermap.org/
 
 
-Resultado referente ao dado obtido pel
+I - Resultado referente ao dados extraidos pelo script.
 ![image](https://github.com/vlsantos-bit/Diferenca_Entre_Modelo_vs_previsor/blob/main/result_table.png)
+
+
+II - Resultado plotado referente a tendencia de temperatura extraida da tabela anterior. 
+![image](https://github.com/vlsantos-bit/Diferenca_Entre_Modelo_vs_previsor/blob/main/resultad_plot.png)
+
+III - Resultado da previsão de 3 dias com as previsões inseridas (valores inseridos são apenas para teste)
+
+![image](https://github.com/vlsantos-bit/Diferenca_Entre_Modelo_vs_previsor/blob/main/result_comp.png)
